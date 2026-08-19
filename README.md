@@ -56,7 +56,7 @@ This prints the input parameters, a breakdown of how many points were classified
 into each flow regime, the fitted Horner slope, and a table comparing estimated vs.
 true `k`, `Pi`, and skin — then saves `loglog\_diagnostic.png` and `horner\_plot.png`.
 
-To explore interactively (it has thephysics explained inline, plus a noisy-data example):
+To explore interactively (it has the physics explained inline, plus a noisy-data example):
 
 ```bash
 jupyter notebook well\_test\_simulator.ipynb
